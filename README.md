@@ -35,10 +35,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Zone Guard](https://github.com/your-username/zoneguard) | Crime reporting app with location, image, and map features. | Flutter, Supabase |
-| [Fitness Tracker](https://github.com/your-username/fitnesstracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
-| [Credentia](https://github.com/your-username/credentia) | Digital credential verification system. | C#, .NET |
-| [E-commerce Website](https://github.com/your-username/ecommerceplatform) | Java & Node.js based online store. | Java, Node.js |
+| [Zone Guard]([https://github.com/your-username/zoneguard](https://github.com/faiyazzrahman/zoneguard)) | Crime reporting app with location, image, and map features. | Flutter, Supabase |
+| [Fitness Tracker]([https://github.com/your-username](https://github.com/faiyazzrahman/fitnesstracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
 
 ---
 
