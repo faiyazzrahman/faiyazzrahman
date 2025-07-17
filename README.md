@@ -35,28 +35,27 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Zone Guard](https://github.com/your-username/zone-guard) | Crime reporting app with location, image, and map features. | Flutter, Supabase |
-| [Fitness Tracker](https://github.com/your-username/fitness-tracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
+| [Zone Guard](https://github.com/your-username/zoneguard) | Crime reporting app with location, image, and map features. | Flutter, Supabase |
+| [Fitness Tracker](https://github.com/your-username/fitnesstracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
 | [Credentia](https://github.com/your-username/credentia) | Digital credential verification system. | C#, .NET |
-| [E-commerce Website](https://github.com/your-username/ecommerce-platform) | Java & Node.js based online store. | Java, Node.js |
+| [E-commerce Website](https://github.com/your-username/ecommerceplatform) | Java & Node.js based online store. | Java, Node.js |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiyazzrahman&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazzrahman&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*
-- 📧 faiyazurrahman.dev@gmail.com
-- 💻 [GitHub](https://github.com/your-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faiyazzrahman)
+- 📧 mdfyzeram@gmail.com
+- 💻 [GitHub](https://github.com/faiyazzrahman)
 
 ---
 
