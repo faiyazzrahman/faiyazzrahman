@@ -36,7 +36,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Zone Guard](https://github.com/faiyazzrahman/zoneguard) | Crime reporting app with location, image, and map features. | Flutter, Supabase |
-| [Fitness Tracker](https://github.com/faiyazzrahman/fitnesstracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
+| [Fitness Tracker](https://github.com/faiyazzrahman/fitness-tracker) | Multi-database Django app with user body type profiling. | Django, MySQL |
 
 ---
 
